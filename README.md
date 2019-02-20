@@ -11,6 +11,7 @@ Overview:
   3. Students
 
   This helps the Students to have a interactive quiz held by the Teacher.
-  This quiz can be viewed and managed by the Admin, which can be viewed later the stats as per held quiz.
-  Contains a Leaderboard(which shows the top 3 students), which shows the number of Teachers and Students.
- 
+  This quiz can be viewed and managed by the Teacher.
+  Admin is responsible for signing up for the teachers.
+  Admin will be able to access the leaderboard. Followed by number of students signed in, and teachers.
+  
